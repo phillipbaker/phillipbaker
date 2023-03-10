@@ -1,4 +1,4 @@
-# Hello, hello 👋
+👋
 
 Hi, I’m Phil.
 
