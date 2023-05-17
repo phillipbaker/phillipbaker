@@ -1,10 +1,10 @@
-👋
+👋 
 
-Hi, I’m Phil.
+Hi, I’m Phil, an iOS developer based in London, UK. 
 
-I’m a self-taught iOS developer based in London, UK. You can read more about my projects on my [website](http://phillipbaker.me/).
+I am currently looking for full-time work opportunities. If you’d like to talk, please feel free [email me](mailto:phillipbaker@hey.com).
 
-## Get in touch
+#### Elsewhere
 - Website: https://phillipbaker.me
 - Twitter: https://twitter.com/phillipbaker
 - Mastodon: https://mastodon.social/@phillipbaker
